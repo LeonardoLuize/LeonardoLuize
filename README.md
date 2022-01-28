@@ -7,8 +7,8 @@
   </p>
 
   <p>
-    I also maintained new functionalities in Vtrina's web app, always<br>
-    making clean code focused on fix the user problem.
+    I also maintained new features in Vtrina's web app, always<br>
+    making sure the code is clean and focused on fixing user problems.
   </p>
  </blockquote>
 
