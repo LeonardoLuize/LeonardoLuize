@@ -33,5 +33,15 @@
     <img src="https://img.shields.io/badge/Git%20-%61DAFB33.svg?&style=for-the-badge&logo=git&logoColor=white&color=F54D27"/>
   </a>
 </div>
-
-<img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+<br>
+<div>
+  <a href="https://www.instagram.com/leooluize/">
+    <img width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/leonardoluize/">
+    <img width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
+  </a>
+  <a href="mailto:leonardo.luize2@gmail.com">
+    <img width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />
+  </a>
+</div>
