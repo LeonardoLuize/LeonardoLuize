@@ -1,14 +1,15 @@
 <h1>Hello,</h1>
 <blockquote>
   <p>
-    I'm Leonardo Luize, currently a Full Stack developer. With <a target="_new" href="https://vtrina.com">Vtrina</a><br>
-    I worked on integrations with marketplaces such as Riachuelo, Loja <br>
-    Integrada, Renner and more.
+    I am a FullStack developer and I work with technologies such as ReactJs, NextJs, NodeJs, Python and Typescript.
   </p>
 
   <p>
-    I also maintained new features in Vtrina's web app, always<br>
-    making sure the code is clean and focused on fixing user problems.
+    Currently I’m part of the Design System+ team, responsible for the creation of Codex, Globo’s Design System. Using technologies such as Python, NodeJs and React, we create APIs and interfaces.
+  </p>
+  
+  <p>
+  Previously, I developed integrations for marketplaces such as Riachuelo, Renner, Loja Integrada and others, with the challenge of creating scalable and low maintenance solutions, while receiving more than a thousand requests per minute. I also developed new features for Vtrina’s management platform, using technologies such as C# and Javascript.
   </p>
  </blockquote>
 
