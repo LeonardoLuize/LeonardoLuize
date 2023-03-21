@@ -18,11 +18,14 @@
   <a target="_blank" href="https://pt-br.reactjs.org/">
     <img src="https://img.shields.io/badge/ReactJs%20-%61DAFB33.svg?&style=for-the-badge&logo=react&logoColor=black&color=61DAFB"/>
   </a>
+  <a target="_blank" href="https://python.org/">
+    <img src="https://img.shields.io/badge/python%20-%F5D547.svg?&style=for-the-badge&logo=python&logoColor=black&color=F5D547"/>
+  </a>
+   <a  target="_blank" href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/NodeJs%20-%61DAFB33.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=75AC64"/>
+  </a>
   <a target="_blank" href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/NextJs%20-%61DAFB33.svg?&style=for-the-badge&logo=next.js&logoColor=black&color=FFFFFF"/>
-  </a>
-  <a  target="_blank" href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/NodeJs%20-%61DAFB33.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=75AC64"/>
   </a>
   <a  target="_blank" href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/js%20-%61DAFB33.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=EFD81D"/>
