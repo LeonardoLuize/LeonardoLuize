@@ -15,6 +15,9 @@
 
 ### ⚛️ Technologies
 <div>
+   <a  target="_blank" href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/NodeJs%20-%61DAFB33.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=75AC64"/>
+  </a>
   <a target="_blank" href="https://python.org/">
     <img src="https://img.shields.io/badge/Python%20-%F5D547.svg?&style=for-the-badge&logo=python&logoColor=black&color=F5D547"/>
   </a>
@@ -23,9 +26,6 @@
   </a>
   <a  target="_blank" href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript%20-%61DAFB33.svg?&style=for-the-badge&logo=typescript&logoColor=black&color=3278C6"/>
-  </a>
-   <a  target="_blank" href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/NodeJs%20-%61DAFB33.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=75AC64"/>
   </a>
   <a target="_blank" href="https://fastapi.tiangolo.com/">
     <img src="https://img.shields.io/badge/FastApi%20-%F5D547.svg?&style=for-the-badge&logo=fastapi&logoColor=black&color=059587"/>
