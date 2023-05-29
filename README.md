@@ -98,7 +98,3 @@
     <img src="https://img.shields.io/badge/Email%20-%61DAFB33.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=161B22"/>
   </a>
 </div>
-
-<br>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{LeonardoLuize}/count.svg" alt="Leonardo visitor count" /></p>
