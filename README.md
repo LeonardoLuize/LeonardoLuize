@@ -5,7 +5,11 @@
   </p>
 
   <p>
-    Currently I’m part of the Design System+ team, responsible for the creation of Codex, Globo’s Design System. Using technologies such as Python, NodeJs and React, we create APIs and interfaces.
+    Currently, I’m part of the portfolio team at Globo. We are responsible for the entire ecosystem that enables our products (G1, GE, Gshow, etc.) to create and innovate. We primarily use Js and ReactJs, to create and maintain our components. 
+  </p>
+  
+  <p>
+    I also worked at the Design System+ team, which was responsible for the creation of Codex, Globo’s design system. To create Codex, we developed a microservices architecture using Python Fast Api and NodeJs. We also created admin interfaces for token management. To develop these, we used SvelteKit and ReactJS.
   </p>
   
   <p>
